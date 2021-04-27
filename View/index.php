@@ -71,22 +71,102 @@
         <div class="container mt-3">
             <h2>Catégories</h2>
             <div class="row categories-badge mt-3">
-                <div class="col-2">
-                    <span class="badge p-3 bg-light text-dark">Item 1</span>
+                <div class="col-3">
+                    <span class="badge p-3 bg-light text-dark">Lunettes</span>
                 </div>
-                <div class="col-2">
-                    <span class="badge p-3 bg-light text-dark">Item 2</span>
+                <div class="col-3">
+                    <span class="badge p-3 bg-light text-dark">Valise</span>
                 </div>
-                <div class="col-2">
-                    <span class="badge p-3 bg-light text-dark">Item 3</span>
+                <div class="col">
+                    <span class="badge p-3 bg-light text-dark">Chaussures</span>
                 </div>
-                <div class="col-2">
-                    <span class="badge p-3 bg-light text-dark">Item 4</span>
+                <div class="col-3">
+                    <span class="badge p-3 bg-light text-dark">Bikini</span>
                 </div>
-                <div class="col-2">
-                    <span class="badge p-3 bg-light text-dark">Item 5</span>
+                <!-- <div class="col-2">
+                    <span class="badge p-3 bg-light text-dark">Parfum</span>
+                </div> -->
+            </div>
+        </div>
+
+        <div class="container">
+        <div class="content mt-5">
+                <h3 class="red-text">Explorez nos produits les plus populaires</h3>
+                <hr class="hr-width mt-4">
+                <div class="row py-3 mt-4">
+                    <div class="col-12 mt-1">
+                        <div class="card">
+                            <img src="images/valise2.jpeg" class="card-img-top" alt="..." height="50%" width="auto">
+                            <div class="card-body">
+                                <h5 class="card-title">Sac à main </h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <div class="row">
+                                    <div class="col"><a href="#" class="btn btn-more fs-6"> <span class="m-link">Add to cart</span></a></div>
+                                    <div class="col"><a href="#" class="btn btn-more fs-6">Add to wish list</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 mt-1">
+                        <div class="card">
+                            <img src="images/valise1.jpeg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Sac à main <br> 1000 HTG</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-more">Voir plus</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 mt-1">
+                        <div class="card">
+                            <img src="images/mannequin4.jpeg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Blouson <br> 900 HTG</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-more">Voir plus</a>
+                            </div>
+                        </div>
+                    </div>
+                <!-- </div>
+
+                <div class="row"> -->
+                    <div class="col-12 mt-1">
+                        <div class="card">
+                            <img src="images/mannequin3.jpeg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Lunettes noires <br> 700 HTG</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-more">Voir plus</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 mt-1">
+                        <div class="card">
+                            <img src="images/mannequin2.jpeg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Lunettes de soleil <br> 600 HTG</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-more">Voir plus</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-12 mt-1">
+                        <div class="card">
+                            <img src="images/mannequin1.jpeg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Lunettes de soleil très stylé <br> 800 HTG</h5> 
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="#" class="btn btn-more">Voir plus</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
+        </div>
         </div>
 
         <?php

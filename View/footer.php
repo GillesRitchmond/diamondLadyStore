@@ -29,21 +29,20 @@
             <div class="container list">
                 <ul class="me-auto mb-2 mb-lg-0">
                     <li><a class="navbar-brand" href="#">
-                        <span class="material-icons">home</span>
+                        <span class="material-icons fs-1">home</span>
                     </a></li>
                     
                     <li><a class="navbar-brand" href="#">
-                        <span class="material-icons md-3">list</span>
+                        <span class="material-icons fs-1">list</span>
                     </a></li>
                     
                     <li><a class="navbar-brand" href="#">
-                        <span class="material-icons">shopping_cart</span>
+                        <span class="material-icons fs-1">shopping_cart</span>
                     </a></li>
                     
                     <li><a class="navbar-brand" href="#">
-                        <span class="material-icons">account_circle</span>
+                        <span class="material-icons fs-1">account_circle</span>
                     </a></li>
-                    
                 </ul>
             </div>
         </nav>
