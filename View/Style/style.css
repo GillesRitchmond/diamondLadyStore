@@ -36,18 +36,26 @@
         bottom: 0;
         width: 100%;   
         /* padding: 10px; */
-        border-radius: 60px 60px 0px 0px; 
+        border-radius: 30px 30px 0px 0px; 
     }
     .menu-footer .list{
         text-align: center;
         margin: 0 auto;
+    }
+    .list{
+        
+    }
+    .list ul{
+        margin-left: 15px;
+        margin-top: 10px;
+        padding: 0px 8px;
     }
     .list ul li{
         list-style: none;
         display: inline-block;
         margin: 0 auto;
         text-align: center;
-        padding: 10px 0px 0px 25px;
+        /* padding: 10px 0px 0px 25px; */
     }
     .list ul li .navbar-brand{
         color: var(--dark-gray);
