@@ -46,9 +46,9 @@
         
     }
     .list ul{
-        margin-left: 15px;
+        margin-left: 0px;
         margin-top: 10px;
-        padding: 0px 8px;
+        padding: 0px 1px;
     }
     .list ul li{
         list-style: none;
