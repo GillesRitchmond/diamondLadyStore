@@ -55,10 +55,11 @@
         display: inline-block;
         margin: 0 auto;
         text-align: center;
-        /* padding: 10px 0px 0px 25px; */
+        padding: 10px 0px 0px 25px;
     }
     .list ul li .navbar-brand{
         color: var(--dark-gray);
+        font-size: 12px
     }
     
 
